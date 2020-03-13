@@ -6,5 +6,7 @@
 ### Setup
 install necessary dependancies
 * npm i 
+
+running the tests
 * npm test (run all the tests)
 * npm run testwatch (continuously test when modifying files)
