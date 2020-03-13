@@ -1,0 +1,20 @@
+{
+  "name": "test-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
